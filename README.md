@@ -55,7 +55,7 @@ Most RAG tutorials use cloud APIs like OpenAI, which means your documents leave 
 
 This is part of an upcoming Udemy course on building privacy-first RAG systems. Want to learn more?
 
-**Join the email list**: [Your ConvertKit link]
+**Join the email list**: https://localaiguide.kit.com/2fa94df8c1
 
 ## License
 
