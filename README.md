@@ -57,6 +57,9 @@ This is part of an upcoming Udemy course on building privacy-first RAG systems. 
 
 **Join the email list**: https://localaiguide.kit.com/2fa94df8c1
 
+(Check your spam folder for the welcome email and mark it as "not spam" 
+so you don't miss future updates)
+
 ## License
 
 MIT
