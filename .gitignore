@@ -1,0 +1,10 @@
+# Create .gitignore
+echo "chroma_db/" >> .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
+echo ".env" >> .gitignore
+
+# Add and commit it
+git add .gitignore
+git commit -m "Add .gitignore to exclude local data"
+git push origin main

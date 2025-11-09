@@ -1,0 +1,13 @@
+name: local-rag
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - streamlit>=1.51.0
+    - chromadb>=1.3.4
+    - sentence-transformers>=5.1.0
+    - pypdf>=6.1.3
+    - requests>=2.32.0
