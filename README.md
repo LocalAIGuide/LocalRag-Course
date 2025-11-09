@@ -23,20 +23,20 @@ Most RAG tutorials use cloud APIs like OpenAI, which means your documents leave 
 
 ## Installation
 
-1. Install [Ollama](https://ollama.ai) and pull a model:
-```bash
-   ollama pull llama3.2:3b
+# 1. Clone the repo
+git clone https://github.com/LocalAIGuide/LocalRag-Course.git
+cd LocalRag-Course
 ```
 
 2. Create a Conda environment:
 ```bash
-   conda create -n local-rag python=3.10
+   conda env create -f environment.yml
    conda activate local-rag
 ```
 
-3. Install dependencies:
+3. Install and run Ollama (see ollama.ai for your platform):
 ```bash
-   pip install streamlit chromadb sentence-transformers ollama
+   ollama pull llama3.2:3b
 ```
 
 4. Run the app:
